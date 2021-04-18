@@ -1,0 +1,23 @@
+{
+  "name": "mgmx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/max963/mgmx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/max963/mgmx/issues"
+  },
+  "homepage": "https://github.com/max963/mgmx#readme",
+  "dependencies": {
+    "config": "^3.3.6"
+  }
+}
